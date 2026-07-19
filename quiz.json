@@ -1,0 +1,102 @@
+[
+    {
+        "question" : "Which planet is known as the Red planet?",
+        "options" : ["Venus", "Mars", "Mercury", "Jupiter"],
+        "answer" : 2
+    },
+    {
+        "question" : "Which planet is the largest in the Solar System?",
+        "options" : ["Saturn", "Earth", "Jupiter", "Neptune"],
+        "answer" : 3
+    },
+    {
+        "question" : "Which planet is the closest to the Sun?",
+        "options" : ["Mercury", "Venus", "Earth", "Mars"],
+        "answer" : 1
+    },
+    {
+        "question" : "Which planet is famous for its beautiful rings?",
+        "options" : ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer" : 2
+    },
+    {
+        "question" : "Which planet has the strongest surface gravity?",
+        "options" : ["Earth", "Uranus", "Jupiter", "Mars"],
+        "answer" : 3
+    },
+    {
+        "question" : "Which planet has the greatest number of known moons?",
+        "options" : ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer" : 2
+    },
+    {
+        "question" : "Which planet is the hottest planet in the Solar System?",
+        "options" : ["Mercury", "Venus", "Mars", "Earth"],
+        "answer" : 2
+    },
+    {
+        "question" : "Which planet rotates on it's side?",
+        "options" : ["Mars", "Neptune", "Uranus", "Mercury"],
+        "answer" : 3
+    },
+    {
+        "question" : "Which planet is farthest from the Sun?",
+        "options" : ["Jupiter", "Venus", "Neptune", "Mecury"],
+        "answer" : 3
+    },
+    {
+        "question" : "Which planet has a day longer than its year?",
+        "options" : ["Mercury", "Venus", "Mars", "Earth"],
+        "answer" : 2
+    },
+    {
+        "question": "Olympus Mons, the tallest volcano in the Solar System, is located on which planet?",
+        "options": ["Earth", "Jupiter", "Venus", "Mars"],
+        "answer": 4
+    },
+    {
+        "question": "Which planet is often called Earth's twin because of its similar size?",
+        "options": ["Mars", "Venus", "Mercury", "Saturn"],
+        "answer": 2
+    },
+    {
+        "question": "Which planet has the shortest year?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "answer": 1
+    },
+    {
+        "question": "Which planet has the longest year?",
+        "options": ["Neptune", "Saturn", "Uranus", "Jupiter"],
+        "answer": 1
+    },
+    {
+        "question": "Which planet has the most powerful winds in the Solar System?",
+        "options": ["Jupiter", "Neptune", "Saturn", "Mars"],
+        "answer": 2
+    },
+    {
+        "question": "Which planet is known as the Blue Planet?",
+        "options": ["Neptune", "Venus", "Uranus", "Earth"],
+        "answer": 4
+    },
+    {
+        "question": "Which planet has the largest Great Red Spot storm?",
+        "options": ["Saturn", "Venus", "Jupiter", "Mars"],
+        "answer": 3
+    },
+    {
+        "question": "Which planet has the lowest average temperature?",
+        "options": ["Neptune", "Uranus", "Saturn", "Mars"],
+        "answer": 2
+    },
+    {
+        "question": "How many planets are there in our Solar System?",
+        "options": ["7", "10", "9", "8"],
+        "answer": 4
+    },
+    {
+        "question": "Which planet has the highest average density?",
+        "options": ["Earth", "Mercury", "Venus", "Mars"],
+        "answer": 1
+    }
+]

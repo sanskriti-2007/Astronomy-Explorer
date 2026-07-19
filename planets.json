@@ -1,0 +1,90 @@
+{
+    "Mercury":
+    {
+        "radius": "2439.7 km",
+        "gravity": "3.7 m/s²",
+        "moons": 0,
+        "length_of_day" : "58.6 Earth days",
+        "length_of_year": "88 Earth days",
+        "average_temperature" : "167°C",
+        "fact": "Mercury is the closest planet to the Sun and has no atmosphere."
+    },
+
+    "Venus":
+    {
+        "radius": "6051.8 km",
+        "gravity": "8.87 m/s²",
+        "moons": 0,
+        "length_of_day" : "243 Earth days",
+        "length_of_year": "255 Earth days",
+        "average_temperature" : "464°C",
+        "fact": "A day on Venus is longer than it's year."
+    },
+
+    "Earth":
+    {
+       "radius": "6371 km",
+        "gravity": "9.81 m/s²",
+        "moons": 1,
+        "length_of_day" : "24 hours",
+        "length_of_year": "356.25 days",
+        "average_temperature" : "15°C",
+        "fact": "Earth is the only known planet that supports life."
+    },
+
+    "Mars":
+    {
+        "radius": "3389.5 km",
+        "gravity": "3.72 m/s²",
+        "moons": 2,
+        "length_of_day" : "24.6 hours",
+        "length_of_year": "687 Earth days",
+        "average_temperature" : "-63°C",
+        "fact": "Mars is home to Olympus Mons, the tallest volcano in the Solar System."
+    },
+
+
+    "Jupiter":
+    {
+        "radius": "69911 km",
+        "gravity": "24.79 m/s²",
+        "moons": 95,
+        "length_of_day" : "9.9 hours",
+        "length_of_year": "11.86 Earth years",
+        "average_temperature" : "-146°C",
+        "fact": "Jupiter is the largest planet in the Solar System."
+    },
+
+    "Saturn":
+    {
+        "radius": "58232 km",
+        "gravity": "10.44 m/s²",
+        "moons": 146,
+        "length_of_day" : "10.7 hours",
+        "length_of_year": "29.46 Earth years",
+        "average_temperature" : "-178°C",
+        "fact": "Saturn's rings are mostly made of ice and rock."
+    },
+
+    "Uranus":
+    {
+        "radius": "25362 km",
+        "gravity": "8.69 m/s²",
+        "moons": 28,
+        "length_of_day" : "17.2 hours",
+        "length_of_year": "84 Earth years",
+        "average_temperature" : "-195°C",
+        "fact": "Uranus rotates on it's side, making it unique among the planets."
+    },
+
+    "Neptune":
+    {
+        "radius": "24622 km",
+        "gravity": "11.15 m/s²",
+        "moons": 16,
+        "length_of_day" : "16.1 hours",
+        "length_of_year": "164.8 Earth years",
+        "average_temperature" : "-201°C",
+        "fact": "Neptune has the fastest winds in the Solar System, reaching over 2,000 km/h."
+    }
+}
